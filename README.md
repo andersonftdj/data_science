@@ -4,12 +4,15 @@
   <img src="banner.png" >
 </p>
 
-# Anderson Felipe Teles de Jesus
-<sub>*Estudante* de data science</sub>
+# Anderson Felipe
+<sub>*Estudante* de Engenharia de Computação e Data Science</sub>
+
+Sou estudante de Engenharia de Computação pela Universidade Tecnológica Federal do Paraná - CP, atualmente tenho voltado meus estudos para a área de Data Science.
+
+Aqui você encontrará meus projetos em desenvolvimento, alguns ainda em níveis bem básicos mas com o passar do tempo o nível será escalado, sempre em constante evolução e desenvolvimento.
 
 
-
-**Background in:** Python.
+**Background :** Python.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/andersonftdj/)
