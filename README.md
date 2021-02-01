@@ -19,7 +19,8 @@ Aqui você encontrará meus projetos em desenvolvimento, alguns ainda em níveis
 
 
 
-## Projetos básicos:
+## Projetos:
 
 * **Operações e tipos de variáveis:** https://bit.ly/3kz4YBj
 ---
+* **Análise de Dados do Airbnb - New York:** https://bit.ly/3pD58e7
