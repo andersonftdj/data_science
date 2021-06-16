@@ -23,3 +23,4 @@ Aqui você encontrará meus projetos em desenvolvimento, alguns ainda em níveis
 
 * **Operações e tipos de variáveis:** https://bit.ly/3kz4YBj
 * **Análise de Dados do Airbnb - New York:** https://bit.ly/3pD58e7
+* **Analisando a Violência no Rio de Janeiro:** https://bit.ly/2UdSSGh
