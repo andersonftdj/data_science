@@ -21,6 +21,8 @@ Aqui você encontrará meus projetos em desenvolvimento, alguns ainda em níveis
 
 ## Projetos:
 
-* **Operações e tipos de variáveis:** https://bit.ly/3kz4YBj
-* **Análise de Dados do Airbnb - New York:** https://bit.ly/3pD58e7
-* **Analisando a Violência no Rio de Janeiro:** https://bit.ly/2UdSSGh
+Caso alguns dos notebooks não carreguem, clique no segundo link!
+
+* **Operações e tipos de variáveis:**         https://bit.ly/3kz4YBj
+* **Análise de Dados do Airbnb - New York:**  [Abrir no GitHub](https://bit.ly/3pD58e7) -- [Abrir no nbviewr](https://github.com/andersonftdj/data_science/blob/master/Analisando%20os%20Dados%20do%20Airbnb%20-%20New%20York.ipynb) -- [Artigo](https://medium.com/@andersonftdj/an%C3%A1lise-explorat%C3%B3ria-de-dados-do-airbnb-da-cidade-de-new-york-4d991fe3816c)
+* **Analisando a Violência no Rio de Janeiro:** [Abrir no GitHub](https://bit.ly/2UdSSGh) -- [Abrir no nbviewer](https://bit.ly/3pW7Yff) -- Artigo (Em Construção)
