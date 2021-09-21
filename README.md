@@ -9,7 +9,7 @@
 
 Sou estudante de Engenharia de Computação pela Universidade Tecnológica Federal do Paraná - CP, atualmente tenho voltado meus estudos para a área de Data Science.
 
-Aqui você encontrará meus projetos em desenvolvimento, alguns ainda em níveis bem básicos mas com o passar do tempo o nível será escalado, sempre em constante evolução e desenvolvimento.
+Aqui você encontrará meus projetos desenvolvidos.
 
 
 **Background :** Python; Análise Exploratória de Dados.
